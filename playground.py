@@ -12,3 +12,4 @@ if __name__ == "__main__":
 
     obj = Greeter("A")
     obj.greet("B");
+print 'test'
