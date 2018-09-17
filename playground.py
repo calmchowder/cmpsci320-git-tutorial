@@ -12,3 +12,8 @@ if __name__ == "__main__":
 
     obj = Greeter("A")
     obj.greet("B");
+
+	
+	
+	def hello(self):
+		print "hello this is a test message";
